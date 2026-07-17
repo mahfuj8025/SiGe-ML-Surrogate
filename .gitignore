@@ -216,3 +216,30 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+.ipynb_checkpoints/
+*.csv
+*.dat
+*.pkl
+*.joblib
+*.h5
+*.model
+/data_raw/
+/models/pretrained/
+*.wfc
+*.igk
+*.rho
+*.save/
+outdir/
+scratch/
+CRASH
+*.xml
+.DS_Store
+.vscode/
+.idea/
